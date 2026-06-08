@@ -1,6 +1,6 @@
 # 📋 NoticeBoard
 
-A full-stack institutional notice board built with **Next.js (Pages Router)**, **Prisma**, **TiDB Cloud**, and deployed on **Vercel**.
+A full-stack institutional notice board built with **Next.js (Pages Router)**, **Prisma**, **Neon Cloud**, and deployed on **Vercel**.
 
 🔗 **Live Demo:** [your-app.vercel.app](https://noticeboard-six-opal.vercel.app/)  
 📦 **Repo:** [github.com/yourusername/noticeboard](https://github.com/VinayPandey557/noticeboard)
