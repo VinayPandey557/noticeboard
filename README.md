@@ -39,7 +39,7 @@ A full-stack institutional notice board built with **Next.js (Pages Router)**, *
 ### Prerequisites
 
 - Node.js 18+
-- A free [TiDB Cloud](https://tidbcloud.com) account (or Neon / Supabase for Postgres)
+- A free [Neon Cloud](https://tidbcloud.com) account (or Neon / Supabase for Postgres)
 
 ### Steps
 
@@ -69,7 +69,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ### Getting a DATABASE_URL (TiDB Cloud)
 
-1. Sign up at [tidbcloud.com](https://tidbcloud.com) → create a **Serverless** cluster (free tier).
+1. Sign up at [neon.com](https://neon.com) → create a **Serverless** cluster (free tier).
 2. In the cluster dashboard, click **Connect** → choose **Prisma**.
 3. Copy the connection string. It looks like:  
    `mysql://user:password@host:4000/test?ssl-mode=require`
